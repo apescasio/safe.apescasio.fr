@@ -26,6 +26,6 @@ export const DOCS = {
         title: "Python",
         path: "/docs/python",
         icon: IconPython,
-        desc: "A complete cloud solution from Microsoft that allows you to manage and secure your organization's devices and applications.",
+        desc: "A high-level, interpreted programming language known for its simplicity and versatility, widely used for web development, data analysis, artificial intelligence, and automation.",
     },
 };
