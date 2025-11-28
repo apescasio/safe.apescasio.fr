@@ -1,0 +1,8 @@
+{
+  "title": "Intune",
+  "root": true,
+  "pages": [
+    "index"
+  ],
+  "icon": "intune"
+}

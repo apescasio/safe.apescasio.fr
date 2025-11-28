@@ -1,0 +1,8 @@
+{
+  "title": "Azure",
+  "root": true,
+  "pages": [
+    "index"
+  ],
+  "icon": "azure"
+}
