@@ -2,7 +2,8 @@
   "title": "Azure",
   "root": true,
   "pages": [
-    "index"
+    "index",
+    "azure-basics"
   ],
   "icon": "azure"
 }
