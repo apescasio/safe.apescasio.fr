@@ -2,6 +2,7 @@ import IconHome from './components/icons/home';
 import IconAzure from './components/icons/azure';
 import IconIntune from './components/icons/intune';
 import IconPython from './components/icons/python';
+import IconCopilot from './components/icons/copilot';
 
 export const DOCS = {
     home: {
@@ -27,5 +28,11 @@ export const DOCS = {
         path: "/docs/python",
         icon: IconPython,
         desc: "A high-level, interpreted programming language known for its simplicity and versatility, widely used for web development, data analysis, artificial intelligence, and automation.",
+    },
+    copilot: {
+        title: "Copilot",
+        path: "/docs/copilot",
+        icon: IconCopilot,
+        desc: "AI-powered productivity assistant integrated into Microsoft 365 apps to help with writing, analysis, and automation.",
     },
 };
