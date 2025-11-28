@@ -1,0 +1,8 @@
+{
+  "title": "Copilot",
+  "root": true,
+  "pages": [
+    "index"
+  ],
+  "icon": "copilot"
+}
